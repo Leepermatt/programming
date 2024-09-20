@@ -4,21 +4,23 @@ This is a basic Hello world program using Python. It was created to demostrate t
 
 
 
-{Describe your purpose for creating this software.}
+
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4nJRjsVsdVU)
+
+[Github link](https://github.com/Leepermatt/programming)
 
 # Development Environment
 
 *Visual Studio Code
-*Python 12.4 64 bit
+*Python 3.12.4 64 bit
 *Git/GitHub
 
 
 
-{Describe the programming language that you used}
+
 
 # Useful Websites
 

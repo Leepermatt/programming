@@ -12,23 +12,27 @@ My purpose in using this dataset was that I deal with home prices in my day job 
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+* The documentation for the data made claims about prices that the data and my own knowledge doubted.
+* It shows almost no corralation between condition, area, and year built
+* This is because desirable neighborhoods skew the data to have no corralation to any of the metrics that such a large dataset can offer. This is the rason we have to use comparable sales zeroed down to a tiny area. 
+* I think the most important take away from the analysis, is that local area has the largest corralation to houseing prices and nothing else trumps that. 
+
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 
-{Describe the programming language that you used and any libraries.}
+
+I used Python in conjuction with pandas and mathlibplot library as will as the seaborn library to help display the graphs. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Pandas python data](https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html)
+* [Real Python](https://realpython.com/pandas-plot-python/)
+* [W3 schools](https://www.w3schools.com/python/pandas/pandas_plotting.asp)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would like to find a larger database and be able to try to establish better predicitons of localized area. 
+* The graphs I used were the only ones I learned, other chrts maybe more interesting.

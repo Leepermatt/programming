@@ -6,7 +6,7 @@ The data set has houses with their prices and then date built and the type of lo
 
 My purpose in using this dataset was that I deal with home prices in my day job and I have an interest in it. It is something that I interact with on a daily basis. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+
 
 [Software Demo Video](https://youtu.be/duxgyN62ROk)
 [Github link](https://github.com/Leepermatt/programming/tree/main/dataAnalysis)

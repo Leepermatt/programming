@@ -49,7 +49,7 @@ count_by_condition = df['Condition'].value_counts().reset_index()
 count_by_condition.columns = ['Condition', 'Count']
 print("Count of Houses by Condition:\n", count_by_condition)
 
-# Analysis 1: Price vs Condition grouped by Location
+# Analysis 1: Price vs Condition for each location
 for location in locations:
     plt.figure(figsize=(10, 6))
     sns.boxplot(x='Condition', y='Price', data=df[df['Location'] == location])
@@ -59,13 +59,13 @@ for location in locations:
     plt.xticks(rotation=45)
     plt.show()
 
- # Correlation between Price and Condition for each Location
+ # Correlation between Price and Condition for each location
     location_data = df[df['Location'] == location]
     location_data['Condition_Code'] = location_data['Condition'].cat.codes
     correlation_condition = location_data['Price'].corr(location_data['Condition_Code'])
     print(f'Correlation between Price and Condition in {location}: {correlation_condition:.2f}')
 
-# Analysis 2: Price vs YearBuilt grouped by Location
+# Analysis 2: Price vs YearBuilt for each location
 for location in locations:
     plt.figure(figsize=(10, 6))
     sns.scatterplot(x='YearBuilt', y='Price', data=df[df['Location'] == location])
@@ -84,9 +84,9 @@ for location in locations:
     plt.ylabel('Price')
     plt.show()
 
-### Analysis 3: Floors vs Price grouped by Location ###
+### Analysis 3: Floors vs Price group by location
 
-# Scatter plot for Floors vs Price, grouped by Location
+# Scatter plot for Floors vs Price, grouped by location
 for location in locations:
     plt.figure(figsize=(10, 6))
     sns.scatterplot(x='Floors', y='Price', data=df[df['Location'] == location])
@@ -103,7 +103,7 @@ for location in locations:
     plt.ylabel('Price')
     plt.show()
 
-# Box plot to compare Price distribution by Floors in each Location
+# Box plot to compare Price distribution by Floors in each location
 for location in locations:
     plt.figure(figsize=(10, 6))
     sns.boxplot(x='Floors', y='Price', data=df[df['Location'] == location])
@@ -112,11 +112,11 @@ for location in locations:
     plt.ylabel('Price')
     plt.show()
 
-    # Correlation between Floors and Price for each Location
+    # Correlation between Floors and Price for each location
     location_data = df[df['Location'] == location]
     correlation_floors_price = location_data['Floors'].corr(location_data['Price'])
     print(f'Correlation between Floors and Price in {location}: {correlation_floors_price:.2f}')
 
-  # Correlation between Price and YearBuilt for each Location
+  # Correlation between Price and YearBuilt for each location
     correlation_yearbuilt = location_data['Price'].corr(location_data['YearBuilt'])
     print(f'Correlation between Price and Year Built in {location}: {correlation_yearbuilt:.2f}')

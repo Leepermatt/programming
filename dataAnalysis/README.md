@@ -20,9 +20,8 @@ My purpose in using this dataset was that I deal with home prices in my day job 
 
 # Development Environment
 
-
-
-I used Python in conjuction with pandas and mathlibplot library as will as the seaborn library to help display the graphs. 
+I used Python in conjuction with pandas and mathlibplot library as will as the seaborn library to help display the graphs. \
+It was cool since I have never used these libraries before.
 
 # Useful Websites
 
@@ -35,4 +34,4 @@ I used Python in conjuction with pandas and mathlibplot library as will as the s
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 * I would like to find a larger database and be able to try to establish better predicitons of localized area. 
-* The graphs I used were the only ones I learned, other chrts maybe more interesting.
+* The graphs I used were the only ones I learned, other charts maybe more interesting.

@@ -1,20 +1,22 @@
 # Overview
 
-I created a milage tracker that alllows you to put your beggining mileage and the ending mileage and amount of gas fill up and calculates your gas mileage used for that tank of gas. 
+I created a milage tracker that allows you to put your beginning mileage and the ending mileage and amount of gas fill up and calculates your gas mileage used for that tank of gas. 
 
-I used variables, conditionals, funtions, and loops to cosntruct a Windows form to calculate the miles per gallon you use. It uses if then statements to decide if you inputed a number or a string and if it was inputed as a number then it calculates the total miles and after inputing the number of gallons of gas, it calcultates how many miles per gallon you used. It does the calculations using functions.
+I used variables, conditionals, functions, and loops to construct a Windows form to calculate the miles per gallon you use. It uses if then statements to decide if you inputted a number or a string and if it was inputted as a number then it calculates the total miles and after inputting the number of gallons of gas, it calculates how many miles per gallon you used. It does the calculations using functions.
 
 My purpose for writing this program was to expand my knowledge on how to work with .net and windows forms on Visual Studio Code.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
+
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-I reaserched how to intall the .net library add on to Visual Studio Code.
+I researched how to install the .net library add on to Visual Studio Code.
 
 I installed the .net library so that Visual Studio Code could run .net framework.
+
 
 
 
@@ -27,8 +29,8 @@ I installed the .net library so that Visual Studio Code could run .net framework
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+
+- I would like to add a SQL process to it. This will enable all the records be kept and researched.
+- I would like to make the form to be more user friendly
+

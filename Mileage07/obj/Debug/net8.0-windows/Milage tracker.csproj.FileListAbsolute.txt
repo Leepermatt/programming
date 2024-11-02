@@ -1,0 +1,17 @@
+D:\Dropbox\School\fall24\programing\Mileage07\bin\Debug\net8.0-windows\Milage tracker.exe
+D:\Dropbox\School\fall24\programing\Mileage07\bin\Debug\net8.0-windows\Milage tracker.deps.json
+D:\Dropbox\School\fall24\programing\Mileage07\bin\Debug\net8.0-windows\Milage tracker.runtimeconfig.json
+D:\Dropbox\School\fall24\programing\Mileage07\bin\Debug\net8.0-windows\Milage tracker.dll
+D:\Dropbox\School\fall24\programing\Mileage07\bin\Debug\net8.0-windows\Milage tracker.pdb
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage_tracker.MainMenu.resources
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.csproj.GenerateResource.cache
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.AssemblyInfoInputs.cache
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.AssemblyInfo.cs
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.csproj.CoreCompileInputs.cache
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.sourcelink.json
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.dll
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\refint\Milage tracker.dll
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.pdb
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\Milage tracker.genruntimeconfig.cache
+D:\Dropbox\School\fall24\programing\Mileage07\obj\Debug\net8.0-windows\ref\Milage tracker.dll

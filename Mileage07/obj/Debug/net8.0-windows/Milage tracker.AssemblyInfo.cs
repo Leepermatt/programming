@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Milage tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e90e673ba360975a25ad322a0f39bf25e8d1bfac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c0cfd1bd915615b453a0210f3a04d4a68e08d6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Milage tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Milage tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

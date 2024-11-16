@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+}
+
+.wall {
+    background-color: black;
+}
+
+.path {
+    background-color: lightblue;
+}
+
+.player {
+    background-color: red;
+}
+
+.finish {
+    background-color: green;
+}

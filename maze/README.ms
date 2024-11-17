@@ -6,9 +6,8 @@
 
 {I learned that I can do a recursive program or an If -Then system of iterating through data to create the maze information. Creating this program using recursive programing was difficult as I had an infinite loop several times before I got it right. }
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3gGKS5FcHf4)
 
 # Development Environment
 

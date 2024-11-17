@@ -14,7 +14,7 @@
 
 {Tools I used to create this program}
 
-{I used JavaScript to write this program. The only library I used was the live server extension.}
+{I used JavaScript to write this program. The only library I used was the live server extension. Well that I know of. I have a lot of libraries installed now.}
 
 # Useful Websites
 
@@ -28,6 +28,6 @@
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- In the future I would like to add to the maze and make it like the one from Mark Rober's video. I like that he asked for direction prompts. 
+- I would like to add a color change for all the areas that were traveled through.
+- I would like to learn how touse API's as this seems to open a large field of knowledge.

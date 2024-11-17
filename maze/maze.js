@@ -34,7 +34,7 @@ function initializeMaze() {
         }
     }
 
-    // Start maze generation from (1,1) - Avoiding the start (0,0)
+    // generate maze
     generateMaze(0, 0);
 
     // Set the finish point (end goal)

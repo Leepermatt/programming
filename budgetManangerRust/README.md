@@ -6,15 +6,16 @@ I wrote a simple budget program that that will store your income and expenses an
 
 My purpose for writing this program was to expand my understanding of different languages. 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](https://youtu.be/EcqulQbZT5c)
 
 # Development Environment
 
 I used Visual Studio Code as well as Rust and a an extension called Rust-analyzer as tools to write this program.
 
 I used Rust and had to install a library called rust-analyzer.
+
 
 # Useful Websites
 
@@ -26,7 +27,7 @@ I used Rust and had to install a library called rust-analyzer.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 
 - Create a file to store the data.
 - Make it more robust so that it can store more items.
